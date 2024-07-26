@@ -41,7 +41,6 @@ To run or modify this Connect Four game, follow these steps:
   - `Main.java` - The main class that launches the game
   - `ConnectFourGame.java` - The class containing the game logic
   - `GameController.java` - The class managing the game interface and interactions
-- `resources/` - Directory for resource files (e.g., images, stylesheets)
 - `README.md` - This README file
 
 ## Customization
