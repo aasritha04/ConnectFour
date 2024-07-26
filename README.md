@@ -37,7 +37,7 @@ To run or modify this Connect Four game, follow these steps:
 
 ## File Structure
 - `src/` - Source code directory
-- 'com/example/connect4 - Package which includes all the logic
+- `com/example/connect4` - Package which includes all the logic
   - `Main.java` - The main class that launches the game
   - `ConnectFourGame.java` - The class containing the game logic
   - `GameController.java` - The class managing the game interface and interactions
@@ -47,4 +47,4 @@ To run or modify this Connect Four game, follow these steps:
 You can customize this game by modifying the Java source files in the `src` directory.
 
 ### Editing Java Code
-Open the `.java` files in your preferred Java IDE or text editor and modify the content to change the game logic, interface, or behavior.
+Open the `.java` files in your IntelliJ IDEA and modify the content to change the game logic, interface, or behavior.
