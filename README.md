@@ -10,7 +10,7 @@ This project is a Connect Four game developed using Java and JavaFX. It provides
 - Simple and intuitive user interface
 
 ## Preview
-![Connect Four Game Preview](main/game%20display.mp4)
+![Connect Four Game Preview](game display.mp4)
 
 ## Getting Started
 To run or modify this Connect Four game, follow these steps:
